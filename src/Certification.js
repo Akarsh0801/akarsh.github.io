@@ -6,7 +6,7 @@ export default function Certification(){
         <div className="flex-1">
 
 <div id='experience' className="flex-1 z-0 h-screen w-auto">
-   <div className=" min-h-screen  mb-8 lg:h-screen xl:h-screen 2xl:h-screen 3xl:h-screen p-8 md:p-8 lg:p-20 xl:p-28 2xl:p-28  bg-grJPGay-100  flex flex-col justify-center  space-y-4  items-start" >
+   <div className=" min-h-screen  mb-8 lg:h-screen xl:h-screen 2xl:h-screen 3xl:h-screen p-8 md:p-8 lg:p-20 xl:p-28 2xl:p-28  bg-gray-100  flex flex-col justify-center  space-y-4  items-start" >
    <div className="flex flex-col items-start w-fit">
    <h1 className="text-3xl  md:text-4xl lg:text-4xl mb-2 p-2 xl:text-4xl 2xl:text-4xl 3xl:text-4xl border-b-4 rounded-xl  border-blue-500 text-gray-700 font-fontFjalla">Certifications</h1>
    </div>
@@ -32,7 +32,7 @@ export default function Certification(){
 
 
     <div className="w-full m-4 h-96  md:w-56 md:h-56 lg:w-60 lg:h-60 xl:w-60 xl:h-60 2xl:w-1/3 2xl:h-72 3xl:w-72 3xl:h-72  relative  group flex justify-center items-center shadow-lg  shadow-blue-400 overflow-hidden rounded-2xl ease-linear transition-all duration-500">
-    <img src="frontendbg.JPG" alt="" className="h-full w-full rounded-2xl  group-hover:scale-125 duration-300 ease-linear transition-all" />
+    <img src="frontendbg.jpg" alt="" className="h-full w-full rounded-2xl  group-hover:scale-125 duration-300 ease-linear transition-all" />
     <div className=" absolute flex flex-col item-center mx-auto text-center justify-center opacity-80 bg-gradient-to-t from-blue-400 to-white items-center w-full h-0 group-hover:h-full group-hover:border-b-[7px] group-hover:border-r-[5px] border-blue-700 rounded-2xl left-0 overflow-hidden bottom-0 transition-all duration-500 ease-linear ">  
    <div className=" flex flex-col justify-center item-center mx-auto p-5 ">
    <h1 className="text-black font-fontRoboto font-semibold text-xl  group-hover:translate-y-0  group-hover:opacity-100 ">Introduction to Frontend Development</h1>

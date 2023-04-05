@@ -20,7 +20,7 @@ export default function About(){
        <div className=" h-screen w-full p-8 md:p-14 lg:p-20 xl:p-28 2xl:p-28  bg-gray-100  flex flex-row  justify-start items-center" >
         <div className="flex flex-col xl:flex-row-reverse gap-y-3 justify-between  lg:gap-4 xl:gap-4 2xl:gap-4 items-start  md:w-full lg:w-full xl:w-full 2xl:w-4/5 3xl:w-4/5">
         <div className="rounded-full h-72 w-72 md:h-72 md:w-72 lg:h-72 lg:w-72 xl:h-80 xl:w-80 2xl:h-96 2xl:w-96  shadow-lg shadow-blue-400 flex justify-center items-center ">
-            <img src="akarsh.JPG" alt="" className="  mx-auto rounded-full  h-72 w-72 md:h-72 md:w-72 lg:h-72 lg:w-72 xl:h-80 xl:w-80 2xl:h-96 2xl:w-96 3xl:h-96 3xl:w-96"/>
+            <img src="akarsh.jpg" alt="" className="  mx-auto rounded-full  h-72 w-72 md:h-72 md:w-72 lg:h-72 lg:w-72 xl:h-80 xl:w-80 2xl:h-96 2xl:w-96 3xl:h-96 3xl:w-96"/>
         </div>
         <div className="flex flex-col my-auto space-y-2">
             <h1 className="text-lg md:text-xl lg:text-xl mxld:text-xl 2xl:text-xl 3xl:text-xl font-fontRoboto text-neutral-700 ">Hi,I'm</h1>

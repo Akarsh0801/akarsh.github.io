@@ -1,4 +1,4 @@
-import { Routes,  Route } from 'react-router-dom';
+import { Routes,  Route, Router } from 'react-router-dom';
 import './App.css';
 import Certification from './Certification';
 import Education from './Education';
@@ -16,12 +16,12 @@ function App() {
   <Sidebar/>
   <Mobilenav/>
     <Routes>
-      <Route  path="/" element={<About/>} />
-      <Route path="/experience" element={<Experience/>} />
-      <Route path="/education" element={<Education/>} />
-      <Route path="/skills" element={<Skill/>} />
-      <Route path="/projects" element={<Projects/>} />
-      <Route path="/certifications" element={<Certification/>} />
+      <Route exact path="/akarsh.github.io" element={<About/>} />
+      <Route exact path="/experience" element={<Experience/>} />
+      <Route exact path="/education" element={<Education/>} />
+      <Route exact path="/skills" element={<Skill/>} />
+      <Route exact path="/projects" element={<Projects/>} />
+      <Route exact path="/certifications" element={<Certification/>} />
     </Routes>
     </div>
   );

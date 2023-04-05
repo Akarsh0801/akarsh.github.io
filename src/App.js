@@ -17,11 +17,11 @@ function App() {
   <Mobilenav/>
     <Routes>
       <Route exact path="/akarsh.github.io" element={<About/>} />
-      <Route  path="/experience" element={<Experience/>} />
-      <Route  path="/education" element={<Education/>} />
-      <Route  path="/skills" element={<Skill/>} />
-      <Route  path="/projects" element={<Projects/>} />
-      <Route  path="/certifications" element={<Certification/>} />
+      <Route  path="/akarsh.github.io/experience" element={<Experience/>} />
+      <Route  path="/akarsh.github.io/education" element={<Education/>} />
+      <Route  path="/akarsh.github.io/skills" element={<Skill/>} />
+      <Route  path="/akarsh.github.io/projects" element={<Projects/>} />
+      <Route  path="/akarsh.github.io/certifications" element={<Certification/>} />
     </Routes>
     </div>
   );

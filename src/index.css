@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=PT+Sans&family=Raleway:ital@0;1&display=swap');
+@tailwind base;
+@tailwind components;
+.active-link{
+   color: white; 
+}
+@tailwind utilities;

@@ -9,10 +9,10 @@ const[active,setActive]=useState(0)
 
 const Menu=[
 {to:"/akarsh.github.io", src:"user.png",alt:"",name:"Home",dis:"translate-x-0" },
-{to:"/experience",src:"experience.png",alt:"",name:"Experience",dis:"translate-x-16" },
-{to:"/education" ,src:"education.png" ,alt:"" ,name:"Education",dis:"translate-x-32"},
-{ to:"/skills",src:"skill.png",alt:"",name:"Skill",dis:"translate-x-48" },
-    { to:"/projects",  src:"project.png",alt:"",name:"Project",dis:"translate-x-64" },
+{to:"/akarsh.github.io/experience",src:"experience.png",alt:"",name:"Experience",dis:"translate-x-16" },
+{to:"/akarsh.github.io/education" ,src:"education.png" ,alt:"" ,name:"Education",dis:"translate-x-32"},
+{ to:"/akarsh.github.io/skills",src:"skill.png",alt:"",name:"Skill",dis:"translate-x-48" },
+    { to:"/akarsh.github.io/projects",  src:"project.png",alt:"",name:"Project",dis:"translate-x-64" },
     // {to:"/certifications",  src:"akarsh.github.io/certificate.png",alt:"",name:"Certificate",dis:"translate-x-80" },
 ];
 

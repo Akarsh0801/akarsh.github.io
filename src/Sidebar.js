@@ -11,7 +11,7 @@ export default function Sidebar(){
         {/* Side Navbar */}
     <div id='sidebar'  className={`${open?'lg:w-80 xl:w-80 2xl:w-80 3xl:w-80 md:w-56 ':"w-24  "}  h-fit bg-blue-900 transition-all duration-700  ease-linear hidden md:block lg:block xl:block 2xl:block 3xl:block relative`}>
             <div className="absolute  rounded-full top-10 -right-4 cursor-pointer border border-white bg-white  p-2 animate-bounce " onClick={()=>setOpen(!open)}>
-        <img src={open?"akarsh.github.io/left-arrow.png":"akarsh.github.io/right-arrow.png"} alt="" className=" w-4 h-4 cursor-pointer"  />
+        <img src={open?"left-arrow.png":"right-arrow.png"} alt="" className=" w-4 h-4 cursor-pointer"  />
         </div>
         <div className={`font-fontPT space-y-4 flex flex-col justify-center items-center  text-gray-100  text-lg  border-r border-neutral-300  h-screen  `}>
             <div className="flex">

@@ -16,8 +16,8 @@ function App() {
   <Sidebar/>
   <Mobilenav/>
     <Routes>
-      <Route exact path="/" element={<About/>} />
-      <Route path="/experience" element={<Experience/>} />
+      <Route exact path="/akarsh.github.io" element={<About/>} />
+      <Route  path="/experience" element={<Experience/>} />
       <Route  path="/education" element={<Education/>} />
       <Route  path="/skills" element={<Skill/>} />
       <Route  path="/projects" element={<Projects/>} />

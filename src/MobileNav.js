@@ -8,18 +8,18 @@ const[active,setActive]=useState(0)
 
 
 const Menu=[
-{to:"/", src:"user.PNG",alt:"",name:"Home",dis:"translate-x-0" },
-{to:"/experience",src:"experience.PNG",alt:"",name:"Experience",dis:"translate-x-16" },
-{to:"/education" ,src:"education.PNG" ,alt:"" ,name:"Education",dis:"translate-x-32"},
-     { to:"/skills",src:"skill.PNG",alt:"",name:"Skill",dis:"translate-x-48" },
-     { to:"/projects",  src:"project.PNG",alt:"",name:"Project",dis:"translate-x-64" },
-          {to:"/certifications",  src:"certificate.PNG",alt:"",name:"Certificate",dis:"translate-x-80" },
+{to:"/akarsh.github.io", src:"user.png",alt:"",name:"Home",dis:"translate-x-0" },
+{to:"/experience",src:"experience.png",alt:"",name:"Experience",dis:"translate-x-16" },
+{to:"/education" ,src:"education.png" ,alt:"" ,name:"Education",dis:"translate-x-32"},
+     { to:"/skills",src:"skill.png",alt:"",name:"Skill",dis:"translate-x-48" },
+     { to:"/projects",  src:"project.png",alt:"",name:"Project",dis:"translate-x-64" },
+          {to:"/certifications",  src:"certificate.png",alt:"",name:"Certificate",dis:"translate-x-80" },
 ];
 
     return(
         <>
         {/* Mobile Tab */}
-    <div className="flex h-full z-50 w-full justify-center items-end   bottom-0 fixed md:hidden lg:hidden xl:hidden 2xl:hidden 3xl:hidden">
+    <div className="flex  z-50 w-full justify-center items-end   bottom-0 fixed md:hidden lg:hidden xl:hidden 2xl:hidden 3xl:hidden">
 <div className="  flex items-center w-fit  justify-center rounded-t-3xl h-fit space-x-8    bg-blue-700">
      <ul className="flex space-x-0.5 h-14  justify-center items-center p-4 " >
         {

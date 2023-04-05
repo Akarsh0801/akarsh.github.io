@@ -17,44 +17,44 @@ export default function Skill(){
 
 
           <div className=" border-b-[8px] flex flex-col hover:border-orange-500 border-orange-500 p-8 h-44 w-44 bg-white  shadow-md shadow-gray-500  space-y-4 justify-center items-center hover:-translate-y-4 ease-linear transition-all duration-300 rounded-xl hover:shadow-lg hover:shadow-orange-500 ">
-            <img src="html.png" alt="" className="w-fit h-fit "/>
+            <img src="akarsh.github.io/html.png" alt="" className="w-fit h-fit "/>
             <p className="font-fontRoboto font-semibold">HTML</p>
           </div>
 
 
        <div className=" border-b-[8px] flex flex-col hover:border-blue-600 border-blue-600 p-8 h-44 w-44 bg-white  shadow-md shadow-gray-500  space-y-4 justify-center items-center hover:-translate-y-4 ease-linear transition-all duration-300 rounded-xl hover:shadow-lg hover:shadow-blue-600 ">
-            <img src="css.png" alt="" className="w-fit h-fit"/>
+            <img src="akarsh.github.io/css.png" alt="" className="w-fit h-fit"/>
             <p className="font-fontRoboto font-semibold">CSS</p>
         </div>
 
 
 
        <div className=" border-b-[8px] flex flex-col hover:border-yellow-400 border-yellow-400 p-8 h-44 w-44  bg-white  shadow-md shadow-gray-500  space-y-4 justify-center items-center hover:-translate-y-4 ease-linear transition-all duration-300 rounded-xl hover:shadow-lg hover:shadow-yellow-400 ">
-            <img src="js.png" alt="" className="w-fit h-fit  ml-6"/>
+            <img src="akarsh.github.io/js.png" alt="" className="w-fit h-fit  ml-6"/>
             <p className="font-fontRoboto font-semibold">Javascript</p>
           </div>
 
        <div className=" border-b-[8px] flex flex-col hover:border-purple-900 border-purple-900 p-8 h-44 w-44  bg-white  shadow-md shadow-gray-500  space-y-4 justify-center items-center hover:-translate-y-4 ease-linear transition-all duration-300 rounded-xl hover:shadow-lg hover:shadow-purple-900 ">
         
-            <img src="bootstrap.png" alt="" className="w-fit h-fit"/>
+            <img src="akarsh.github.io/bootstrap.png" alt="" className="w-fit h-fit"/>
             <p className="font-fontRoboto font-semibold">Bootstrap</p>
             </div>
 
        <div className=" border-b-[8px] flex flex-col hover:border-sky-500 border-sky-500 p-8 h-44 w-44  bg-white  shadow-md shadow-gray-500  space-y-4 justify-center items-center hover:-translate-y-4 ease-linear transition-all duration-300 rounded-xl hover:shadow-lg hover:shadow-sky-500 ">
         
-            <img src="tailwind-css.png" alt="" className="w-fit h-fit"/>
+            <img src="akarsh.github.io/tailwind-css.png" alt="" className="w-fit h-fit"/>
             <p className="font-fontRoboto font-semibold">Tailwind-CSS</p>
             </div>
   
        <div className=" border-b-[8px] flex flex-col hover:border-sky-500 border-sky-500 p-8 h-44 w-44  bg-white  shadow-md shadow-gray-500  space-y-4 justify-center items-center hover:-translate-y-4 ease-linear transition-all duration-300 rounded-xl hover:shadow-lg hover:shadow-sky-500 ">
         
-            <img src="reactjs.png" alt="" className="w-fit h-fit"/>
+            <img src="akarsh.github.io/reactjs.png" alt="" className="w-fit h-fit"/>
             <p className="font-fontRoboto font-semibold">React</p>
             </div>
 
        <div className=" border-b-[8px] flex flex-col hover:border-black border-black p-8 h-44 w-44  bg-white  shadow-md shadow-gray-500  space-y-4 justify-center items-center hover:-translate-y-4 ease-linear transition-all duration-300 rounded-xl hover:shadow-lg hover:shadow-black ">
         
-            <img src="wix.png" alt="" className="w-fit h-fit"/>
+            <img src="akarsh.github.io/wix.png" alt="" className="w-fit h-fit"/>
             <p className="font-fontRoboto font-semibold">Wix</p>
             </div>
 

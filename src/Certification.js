@@ -17,7 +17,7 @@ export default function Certification(){
 
   
    <div className="w-full m-4 h-96 md:w-56 md:h-56 lg:w-60 lg:h-60 xl:w-64 xl:h-60 2xl:w-1/3 2xl:h-72 3xl:w-96 3xl:h-72 relative group flex justify-center overflow-hidden shadow-lg  shadow-blue-400 items-center rounded-2xl ease-linear transition-all duration-500">
-    <img src="reactjs.png" alt="" className="h-full w-full rounded-2xl group-hover:scale-125 duration-300 ease-linear transition-all " />
+    <img src="akarsh.github.io/reactjs.png" alt="" className="h-full w-full rounded-2xl group-hover:scale-125 duration-300 ease-linear transition-all " />
    <div className=" absolute flex flex-col item-center mx-auto text-center justify-center opacity-80 bg-gradient-to-t from-blue-400 to-white items-center w-full h-0 group-hover:h-full group-hover:border-b-[7px] group-hover:border-r-[5px] border-blue-700 rounded-2xl left-0 overflow-hidden bottom-0 transition-all duration-500 ease-linear "> 
    <div className=" flex flex-col justify-center item-center  p-5">
    <h1 className="text-black font-fontRoboto font-semibold text-xl  group-hover:translate-y-0  group-hover:opacity-100 ">React Js for Beginners</h1>
@@ -32,7 +32,7 @@ export default function Certification(){
 
 
     <div className="w-full m-4 h-96  md:w-56 md:h-56 lg:w-60 lg:h-60 xl:w-60 xl:h-60 2xl:w-1/3 2xl:h-72 3xl:w-72 3xl:h-72  relative  group flex justify-center items-center shadow-lg  shadow-blue-400 overflow-hidden rounded-2xl ease-linear transition-all duration-500">
-    <img src="frontendbg.jpg" alt="" className="h-full w-full rounded-2xl  group-hover:scale-125 duration-300 ease-linear transition-all" />
+    <img src="akarsh.github.io/frontendbg.jpg" alt="" className="h-full w-full rounded-2xl  group-hover:scale-125 duration-300 ease-linear transition-all" />
     <div className=" absolute flex flex-col item-center mx-auto text-center justify-center opacity-80 bg-gradient-to-t from-blue-400 to-white items-center w-full h-0 group-hover:h-full group-hover:border-b-[7px] group-hover:border-r-[5px] border-blue-700 rounded-2xl left-0 overflow-hidden bottom-0 transition-all duration-500 ease-linear ">  
    <div className=" flex flex-col justify-center item-center mx-auto p-5 ">
    <h1 className="text-black font-fontRoboto font-semibold text-xl  group-hover:translate-y-0  group-hover:opacity-100 ">Introduction to Frontend Development</h1>

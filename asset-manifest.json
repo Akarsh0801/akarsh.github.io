@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/akarsh.github.io/static/css/main.5ddc7835.css",
-    "main.js": "/akarsh.github.io/static/js/main.893aa2d5.js",
+    "main.js": "/akarsh.github.io/static/js/main.e102cfb7.js",
     "static/js/787.28cb0dcd.chunk.js": "/akarsh.github.io/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/akarsh.github.io/index.html",
     "main.5ddc7835.css.map": "/akarsh.github.io/static/css/main.5ddc7835.css.map",
-    "main.893aa2d5.js.map": "/akarsh.github.io/static/js/main.893aa2d5.js.map",
+    "main.e102cfb7.js.map": "/akarsh.github.io/static/js/main.e102cfb7.js.map",
     "787.28cb0dcd.chunk.js.map": "/akarsh.github.io/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ddc7835.css",
-    "static/js/main.893aa2d5.js"
+    "static/js/main.e102cfb7.js"
   ]
 }

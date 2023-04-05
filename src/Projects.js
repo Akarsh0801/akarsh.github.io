@@ -23,7 +23,7 @@ export default function Projects(){
        <h1 className="text-black font-fontRoboto font-semibold text-xl  group-hover:translate-y-0  group-hover:opacity-100 ">Blog</h1>
        <p className="text-black font-fontRoboto text-lg  group-hover:translate-y-1  group-hover:opacity-100 ">Place where you can share your blog with peoples.User can also other users blog.</p>
        <div className="flex item-center justify-center   mx-auto">
-       <Link to="https://blogwebapp-826c1.web.app/" target="_blank" rel="noreferrer"><button className="group-hover:translate-y-2 h-auto hover:bg-blue-700 transition-all ease-linear duration-300 p-3 border-2 text-white bg-black opacity-100 w-fit  rounded-full "><img src="share.svg" alt="" className="h-6 w-6"/></button></Link>
+       <Link to="https://blogwebapp-826c1.web.app/" target="_blank" rel="noreferrer"><button className="group-hover:translate-y-2 h-auto hover:bg-blue-700 transition-all ease-linear duration-300 p-3 border-2 text-white bg-black opacity-100 w-fit  rounded-full "><img src="akarsh.github.io/share.svg" alt="" className="h-6 w-6"/></button></Link>
        </div>
         </div>
         </div>
@@ -38,7 +38,7 @@ export default function Projects(){
        <h1 className="text-black font-fontRoboto font-semibold text-xl  group-hover:translate-y-0  group-hover:opacity-100 ">NewsBox</h1>
        <p className="text-black font-fontRoboto text-lg  group-hover:translate-y-1  group-hover:opacity-100  ">Place where you can get latest top headlines from the world.</p>
        <div className="flex item-center justify-center  mx-auto">
-       <Link to="https://akarsh0801.github.io/newsbox.github.io" target="_blank" rel="noreferrer"><button className="group-hover:translate-y-2 h-auto hover:bg-blue-700 transition-all ease-linear duration-300  p-3 border-2 text-white bg-black opacity-100 w-fit  rounded-full "><img src="share.svg" alt="" className="h-6 w-6"/></button></Link>
+       <Link to="https://akarsh0801.github.io/newsbox.github.io" target="_blank" rel="noreferrer"><button className="group-hover:translate-y-2 h-auto hover:bg-blue-700 transition-all ease-linear duration-300  p-3 border-2 text-white bg-black opacity-100 w-fit  rounded-full "><img src="akarsh.github.io/share.svg" alt="" className="h-6 w-6"/></button></Link>
        </div>
         </div>
         </div>
@@ -52,7 +52,7 @@ export default function Projects(){
        <h1 className="text-black font-fontRoboto font-semibold text-xl  group-hover:translate-y-0  group-hover:opacity-100 ">Quotes</h1>
        <p className="text-black font-fontRoboto text-lg  group-hover:translate-y-1  group-hover:opacity-100 ">Place where you will get best quotes.</p>
        <div className="flex item-center justify-center  mx-auto">
-       <Link to="https://akarsh0801.github.io/quotes.github.io" target="_blank" rel="noreferrer"><button className="group-hover:translate-y-2 h-auto hover:bg-blue-700 transition-all ease-linear duration-300  p-3 border-2 text-white bg-black opacity-100 w-fit  rounded-full "><img src="share.svg" alt="" className="h-6 w-6"/></button></Link>
+       <Link to="https://akarsh0801.github.io/quotes.github.io" target="_blank" rel="noreferrer"><button className="group-hover:translate-y-2 h-auto hover:bg-blue-700 transition-all ease-linear duration-300  p-3 border-2 text-white bg-black opacity-100 w-fit  rounded-full "><img src="akarsh.github.io/share.svg" alt="" className="h-6 w-6"/></button></Link>
        </div>
         </div>
         </div>
@@ -65,7 +65,7 @@ export default function Projects(){
        <h1 className="text-black font-fontRoboto font-semibold text-xl  group-hover:translate-y-0  group-hover:opacity-100 ">Quizz</h1>
        <p className="text-black font-fontRoboto text-lg  group-hover:translate-y-1  group-hover:opacity-100 ">Place where you can improve your knowledge by giving quiz.</p>
        <div className="flex item-center justify-center  mx-auto">
-       <Link to="https://akarsh0801.github.io/quiz.github.io/" target="_blank" rel="noreferrer"><button className="group-hover:translate-y-2 h-auto hover:bg-blue-700 transition-all ease-linear duration-300 p-3 border-2 text-white bg-black opacity-100 w-fit  rounded-full "><img src="share.svg" alt="" className="h-6 w-6"/></button></Link>
+       <Link to="https://akarsh0801.github.io/quiz.github.io/" target="_blank" rel="noreferrer"><button className="group-hover:translate-y-2 h-auto hover:bg-blue-700 transition-all ease-linear duration-300 p-3 border-2 text-white bg-black opacity-100 w-fit  rounded-full "><img src="akarsh.github.io/share.svg" alt="" className="h-6 w-6"/></button></Link>
        </div>
         </div>
         </div>
@@ -78,7 +78,7 @@ export default function Projects(){
        <h1 className="text-black font-fontRoboto font-semibold text-xl  group-hover:translate-y-0  group-hover:opacity-100 ">To-Do</h1>
        <p className="text-black font-fontRoboto text-lg  group-hover:translate-y-1  group-hover:opacity-100 ">Place where you can  create and manage a list of tasks or to-dos they want to do.</p>
        <div className="flex item-center justify-center  mx-auto">
-       <Link to="https://akarsh0801.github.io/todo.github.io" target="_blank" rel="noreferrer"><button className="group-hover:translate-y-2 h-auto hover:bg-blue-700 transition-all ease-linear duration-300  p-3 border-2 text-white bg-black opacity-100 w-fit  rounded-full "><img src="share.svg" alt="" className="h-6 w-6"/></button></Link>
+       <Link to="https://akarsh0801.github.io/todo.github.io" target="_blank" rel="noreferrer"><button className="group-hover:translate-y-2 h-auto hover:bg-blue-700 transition-all ease-linear duration-300  p-3 border-2 text-white bg-black opacity-100 w-fit  rounded-full "><img src="akarsh.github.io/share.svg" alt="" className="h-6 w-6"/></button></Link>
        </div>
         </div>
         </div>
@@ -91,7 +91,7 @@ export default function Projects(){
        <h1 className="text-black font-fontRoboto font-semibold text-xl  group-hover:translate-y-0  group-hover:opacity-100 ">Fun Game</h1>
        <p className="text-black font-fontRoboto text-lg  group-hover:translate-y-1  group-hover:opacity-100 ">Place where you can play a game to refresh your mood.</p>
        <div className="flex item-center justify-center  mx-auto">
-       <Link to="/" traget="_blank" rel="noreferrer"><button className="group-hover:translate-y-2 h-auto hover:bg-blue-700 transition-all ease-linear duration-300 p-3 border-2 text-white bg-black opacity-100 w-fit  rounded-full "><img src="share.svg" alt="" className="h-6 w-6"/></button></Link>
+       <Link to="/" traget="_blank" rel="noreferrer"><button className="group-hover:translate-y-2 h-auto hover:bg-blue-700 transition-all ease-linear duration-300 p-3 border-2 text-white bg-black opacity-100 w-fit  rounded-full "><img src="akarsh.github.io/share.svg" alt="" className="h-6 w-6"/></button></Link>
        </div>
         </div>
         </div>

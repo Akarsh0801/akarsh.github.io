@@ -6,8 +6,8 @@ export default function About(){
 
     const navigate=useNavigate();
 
-    function Projects(){
-        navigate("/projects");
+    function Certificates(){
+        navigate("/certifications");
     }
 
   return(
@@ -33,7 +33,7 @@ export default function About(){
             </div></Link>
             <div className="flex flex-row gap-x-2">
             <button className="h-auto rounded-full w-fit border-2 hover:shadow-md hover:shadow-black border-black hover:border-blue-700 p-2  font-fontFjalla hover:scale-105 hover:bg-blue-700 hover:text-white text-black transition-all  duration-500 hover:ease-in-out">Download CV</button>
-            <button className="h-auto rounded-full w-fit border-2 hover:shadow-md hover:shadow-black border-black hover:border-blue-700 p-2  font-fontFjalla hover:scale-105 hover:bg-blue-700 hover:text-white text-black transition-all  duration-500 hover:ease-in-out" onClick={Projects}>My Work</button>
+            <button className="h-auto rounded-full w-fit border-2 hover:shadow-md hover:shadow-black border-black hover:border-blue-700 p-2  font-fontFjalla hover:scale-105 hover:bg-blue-700 hover:text-white text-black transition-all  duration-500 hover:ease-in-out" onClick={Certificates}>Certificates</button>
             </div>
         </div>
         </div>

@@ -16,12 +16,12 @@ function App() {
   <Sidebar/>
   <Mobilenav/>
     <Routes>
-      <Route exact path="/akarsh.github.io" element={<About/>} />
-      <Route  path="/experience" element={<Experience/>} />
-      <Route  path="/education" element={<Education/>} />
-      <Route  path="/skills" element={<Skill/>} />
-      <Route  path="/projects" element={<Projects/>} />
-      <Route  path="/certifications" element={<Certification/>} />
+      <Route exact path="/" Component={About} />
+      <Route  path="/experience" Component={Experience} />
+      <Route  path="/education" Component={Education} />
+      <Route  path="/skills" Component={Skill} />
+      <Route  path="/projects" Component={Projects} />
+      <Route  path="/certifications" Component={Certification} />
     </Routes>
     </div>
   );

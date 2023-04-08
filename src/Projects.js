@@ -91,7 +91,7 @@ export default function Projects(){
        <h1 className="text-black font-fontRoboto font-semibold text-xl  group-hover:translate-y-0  group-hover:opacity-100 ">Fun Game</h1>
        <p className="text-black font-fontRoboto text-lg  group-hover:translate-y-1  group-hover:opacity-100 ">Place where you can play a game to refresh your mood.</p>
        <div className="flex item-center justify-center  mx-auto">
-       <Link to="/" traget="_blank" rel="noreferrer"><button className="group-hover:translate-y-2 h-auto hover:bg-blue-700 transition-all ease-linear duration-300 p-3 border-2 text-white bg-black opacity-100 w-fit  rounded-full "><img src="akarsh.github.io/share.svg" alt="" className="h-6 w-6"/></button></Link>
+       <Link to="https://akarsh0801.github.io/fungame.github.io" traget="_blank" rel="noreferrer"><button className="group-hover:translate-y-2 h-auto hover:bg-blue-700 transition-all ease-linear duration-300 p-3 border-2 text-white bg-black opacity-100 w-fit  rounded-full "><img src="akarsh.github.io/share.svg" alt="" className="h-6 w-6"/></button></Link>
        </div>
         </div>
         </div>

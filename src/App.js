@@ -19,12 +19,12 @@ function App() {
   <Mobilenav/>
 
   <Routes>
-      <Route exact path="/akarsh.github.io" Component={<About/>}/>
-      <Route  path="/experience" Component={<Experience/>}/>
-      <Route  path="/education" Component={<Education/>}/> 
-      <Route  path="/skills" Component={<Skill/>}/> 
-      <Route  path="/projects" Component={<Projects/>}/> 
-      <Route  path="/certifications" Component={<Certification/>}/> 
+      <Route exact path="/akarsh.github.io" Component={About}/>
+      <Route  path="/experience" Component={Experience}/>
+      <Route  path="/education" Component={Education}/> 
+      <Route  path="/skills" Component={Skill}/> 
+      <Route  path="/projects" Component={Projects}/> 
+      <Route  path="/certifications" Component={Certification}/> 
       </Routes>
     </div>
   );

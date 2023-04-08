@@ -14,11 +14,12 @@ function App() {
 
 
 <div className='flex'>
-<Router>
+
   <Sidebar/>
   <Mobilenav/>
+
   <Routes>
-      <Route exact path="/" >
+      <Route exact path="/akarsh.github.io" >
         <About/>
         </Route>
       <Route  path="/experience">
@@ -37,7 +38,6 @@ function App() {
       <Certification/>
       </Route>
       </Routes>
-    </Router>
     </div>
   );
 }

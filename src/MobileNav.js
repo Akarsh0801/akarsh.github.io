@@ -8,7 +8,7 @@ const[active,setActive]=useState(0)
 
 
 const Menu=[
-{to:"/", src:"user.png",alt:"",name:"Home",dis:"translate-x-0" },
+{to:"/akarsh.github.io", src:"user.png",alt:"",name:"Home",dis:"translate-x-0" },
 {to:"/experience",src:"experience.png",alt:"",name:"Experience",dis:"translate-x-16" },
 {to:"/education" ,src:"education.png" ,alt:"" ,name:"Education",dis:"translate-x-32"},
 { to:"/skills",src:"skill.png",alt:"",name:"Skill",dis:"translate-x-48" },

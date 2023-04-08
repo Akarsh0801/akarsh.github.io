@@ -12,10 +12,11 @@ import Mobilenav from './MobileNav';
 function App() {
   return (
 
+
 <div className='flex'>
+<Routes>
   <Sidebar/>
   <Mobilenav/>
-    <Routes>
       <Route exact path="/" Component={About} />
       <Route  path="/experience" Component={Experience} />
       <Route  path="/education" Component={Education} />

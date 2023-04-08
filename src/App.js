@@ -19,24 +19,12 @@ function App() {
   <Mobilenav/>
 
   <Routes>
-      <Route exact path="/akarsh.github.io" >
-        <About/>
-        </Route>
-      <Route  path="/experience">
-         <Experience/>
-         </Route>
-      <Route  path="/education"> 
-      <Education/>
-      </Route>
-      <Route  path="/skills"> 
-      <Skill/>
-      </Route>
-      <Route  path="/projects"> 
-      <Projects/>
-      </Route>
-      <Route  path="/certifications"> 
-      <Certification/>
-      </Route>
+      <Route exact path="/akarsh.github.io" Component={<About/>}/>
+      <Route  path="/experience" Component={<Experience/>}/>
+      <Route  path="/education" Component={<Education/>}/> 
+      <Route  path="/skills" Component={<Skill/>}/> 
+      <Route  path="/projects" Component={<Projects/>}/> 
+      <Route  path="/certifications" Component={<Certification/>}/> 
       </Routes>
     </div>
   );

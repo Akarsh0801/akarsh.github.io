@@ -14,16 +14,30 @@ function App() {
 
 
 <div className='flex'>
-<Routes>
+<Router>
   <Sidebar/>
   <Mobilenav/>
-      <Route exact path="/" Component={About} />
-      <Route  path="/experience" Component={Experience} />
-      <Route  path="/education" Component={Education} />
-      <Route  path="/skills" Component={Skill} />
-      <Route  path="/projects" Component={Projects} />
-      <Route  path="/certifications" Component={Certification} />
-    </Routes>
+  <Routes>
+      <Route exact path="/" >
+        <About/>
+        </Route>
+      <Route  path="/experience">
+         <Experience/>
+         </Route>
+      <Route  path="/education"> 
+      <Education/>
+      </Route>
+      <Route  path="/skills"> 
+      <Skill/>
+      </Route>
+      <Route  path="/projects"> 
+      <Projects/>
+      </Route>
+      <Route  path="/certifications"> 
+      <Certification/>
+      </Route>
+      </Routes>
+    </Router>
     </div>
   );
 }

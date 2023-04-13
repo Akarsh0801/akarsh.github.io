@@ -1,0 +1,6 @@
+# Set MIME type for JPEG images
+AddType image/jpeg .jpg
+AddType image/jpeg .jpeg
+
+# Set MIME type for PNG images
+AddType image/png .png

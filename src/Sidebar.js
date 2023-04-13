@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { NavLink } from "react-router-dom"
+import { Link } from "react-router-dom"
 
 export default function Sidebar(){
 
@@ -16,12 +16,12 @@ export default function Sidebar(){
         <div className={`font-fontPT space-y-4 flex flex-col justify-center items-center  text-gray-100  text-lg  border-r border-neutral-300  h-screen  `}>
             <div className="flex">
             <ul className={`flex flex-col mx-auto justify-center text-center item-center ${open?"space-y-3":"space-y-4"}`}>
-                {open?<li className="hover:text-gray-300 cursor-pointer  border-neutral-200"><NavLink to="/" >ABOUT</NavLink></li>:<li><NavLink to="/" ><img src="akarsh.github.io/user.png" alt="" className="fill-white w-7 h-6 "/></NavLink></li>}
-                {open?<li className="hover:text-gray-300 cursor-pointer  border-neutral-200"><NavLink to="/experience">EXPERIENCE</NavLink></li>:<li><NavLink to="/experience" ><img src="akarsh.github.io/experience.png" alt="" className="w-7 h-7 "/></NavLink></li>}
-                {open?<li className="hover:text-gray-300 cursor-pointer  border-neutral-200"><NavLink to="/education">EDUCATION</NavLink></li>:<li><NavLink to="/education" ><img src="akarsh.github.io/education.png" alt="" className="w-7 h-7 "/></NavLink></li>}
-                {open?<li className="hover:text-gray-300 cursor-pointer  border-neutral-200"><NavLink to="/skills">SKILLS</NavLink></li>:<li><NavLink to="/skills" ><img src="akarsh.github.io/skill.png" alt="" className="w-7 h-7 "/></NavLink></li>}
-                {open?<li className="hover:text-gray-300 cursor-pointer  border-neutral-200"><NavLink to="/projects">PROJECTS</NavLink></li>:<li><NavLink to="/projects" ><img src="akarsh.github.io/project.png" alt="" className="w-7 h-7"/></NavLink></li>}
-                {open?<li className="hover:text-gray-300 cursor-pointer  border-neutral-200"><NavLink to="/certifications">CERTIFICATONS</NavLink></li>:<li><NavLink to="/certifications" ><img src="akarsh.github.io/certificate.png" alt="" className="w-8 h-7  "/></NavLink></li>}
+                {open?<li className="hover:text-gray-300 cursor-pointer  border-neutral-200"><Link to="/akarsh.github.io" >ABOUT</Link></li>:<li><Link to="/akarsh.github.io" ><img src="akarsh.github.io/user.png" alt="" className="fill-white w-7 h-6 "/></Link></li>}
+                {open?<li className="hover:text-gray-300 cursor-pointer  border-neutral-200"><Link to="/experience">EXPERIENCE</Link></li>:<li><Link to="/experience" ><img src="akarsh.github.io/experience.png" alt="" className="w-7 h-7 "/></Link></li>}
+                {open?<li className="hover:text-gray-300 cursor-pointer  border-neutral-200"><Link to="/education">EDUCATION</Link></li>:<li><Link to="/education" ><img src="akarsh.github.io/education.png" alt="" className="w-7 h-7 "/></Link></li>}
+                {open?<li className="hover:text-gray-300 cursor-pointer  border-neutral-200"><Link to="/skills">SKILLS</Link></li>:<li><Link to="/skills" ><img src="akarsh.github.io/skill.png" alt="" className="w-7 h-7 "/></Link></li>}
+                {open?<li className="hover:text-gray-300 cursor-pointer  border-neutral-200"><Link to="/projects">PROJECTS</Link></li>:<li><Link to="/projects" ><img src="akarsh.github.io/project.png" alt="" className="w-7 h-7"/></Link></li>}
+                {open?<li className="hover:text-gray-300 cursor-pointer  border-neutral-200"><Link to="/certifications">CERTIFICATONS</Link></li>:<li><Link to="/certifications" ><img src="akarsh.github.io/certificate.png" alt="" className="w-8 h-7  "/></Link></li>}
             </ul>
             </div>
         </div>

@@ -1,4 +1,4 @@
-import { Routes,  Route, Router } from 'react-router-dom';
+import { Routes,  Route, Router, BrowserRouter } from 'react-router-dom';
 import './App.css';
 import Certification from './Certification';
 import Education from './Education';
@@ -12,20 +12,20 @@ import Mobilenav from './MobileNav';
 function App() {
   return (
 
-
 <div className='flex'>
 
   <Sidebar/>
   <Mobilenav/>
 
   <Routes>
-      <Route exact path="/akarsh.github.io" Component={About}/>
-      <Route  path="/experience" Component={Experience}/>
-      <Route  path="/education" Component={Education}/> 
-      <Route  path="/skills" Component={Skill}/> 
-      <Route  path="/projects" Component={Projects}/> 
-      <Route  path="/certifications" Component={Certification}/> 
+      <Route exact path="/" element={<About/>}/>
+      <Route  path="/experience" element={<Experience/>}/>
+      <Route  path="/education" element={<Education/>}/> 
+      <Route  path="/skills" element={<Skill/>}/> 
+      <Route  path="/projects" element={<Projects/>}/> 
+      <Route  path="/certifications" element={<Certification/>}/> 
       </Routes>
+      
     </div>
   );
 }

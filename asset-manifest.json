@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/akarsh.github.io/static/css/main.c6b3efba.css",
-    "main.js": "/akarsh.github.io/static/js/main.5a1eee5c.js",
+    "main.css": "/akarsh.github.io/static/css/main.d3b7a757.css",
+    "main.js": "/akarsh.github.io/static/js/main.b446ceca.js",
     "static/js/787.a57447c9.chunk.js": "/akarsh.github.io/static/js/787.a57447c9.chunk.js",
     "static/media/gamebg.jpg": "/akarsh.github.io/static/media/gamebg.cdb0e6b0078d40c4cfad.jpg",
     "static/media/blogbg.jpg": "/akarsh.github.io/static/media/blogbg.8f7c01d4596e0b27a85f.jpg",
@@ -9,8 +9,9 @@
     "static/media/frontendbg.jpg": "/akarsh.github.io/static/media/frontendbg.741b9d59b528792e9eaf.jpg",
     "static/media/quotesbg.jpg": "/akarsh.github.io/static/media/quotesbg.11feeb70843c2f1bdf36.jpg",
     "static/media/newsbg.jpg": "/akarsh.github.io/static/media/newsbg.af6268ddd3ec94faba52.jpg",
-    "static/media/akarsh.jpg": "/akarsh.github.io/static/media/akarsh.821936a11f6a02aff7a1.jpg",
     "static/media/quizbg.jpg": "/akarsh.github.io/static/media/quizbg.8fd64a0872361517801e.jpg",
+    "static/media/Akarsh_23.pdf": "/akarsh.github.io/static/media/Akarsh_23.506a3d760db1c88a39a7.pdf",
+    "static/media/akarshImg.jpg": "/akarsh.github.io/static/media/akarshImg.aa5b144ff9d37b7f20c8.jpg",
     "static/media/reactjs.png": "/akarsh.github.io/static/media/reactjs.3bf6fb4b18b1f904676d.png",
     "static/media/skill.png": "/akarsh.github.io/static/media/skill.945d41460ae610e919ff.png",
     "static/media/education.png": "/akarsh.github.io/static/media/education.ebafe57dfde315e2ea4e.png",
@@ -23,12 +24,12 @@
     "static/media/certificate.png": "/akarsh.github.io/static/media/certificate.6498c32748d62c7ff0bc.png",
     "static/media/project.png": "/akarsh.github.io/static/media/project.da70922a146de2b6a51c.png",
     "index.html": "/akarsh.github.io/index.html",
-    "main.c6b3efba.css.map": "/akarsh.github.io/static/css/main.c6b3efba.css.map",
-    "main.5a1eee5c.js.map": "/akarsh.github.io/static/js/main.5a1eee5c.js.map",
+    "main.d3b7a757.css.map": "/akarsh.github.io/static/css/main.d3b7a757.css.map",
+    "main.b446ceca.js.map": "/akarsh.github.io/static/js/main.b446ceca.js.map",
     "787.a57447c9.chunk.js.map": "/akarsh.github.io/static/js/787.a57447c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6b3efba.css",
-    "static/js/main.5a1eee5c.js"
+    "static/css/main.d3b7a757.css",
+    "static/js/main.b446ceca.js"
   ]
 }

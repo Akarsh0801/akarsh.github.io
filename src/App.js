@@ -1,4 +1,4 @@
-import { Routes,  Route, Router, BrowserRouter } from 'react-router-dom';
+import { Routes,  Route } from 'react-router-dom';
 import './App.css';
 import Certification from './Certification';
 import Education from './Education';
@@ -17,7 +17,8 @@ function App() {
   <Mobilenav/>
 
   <Routes>
-      <Route exact path="/akarsh.github.io" element={<About/>}/>
+      <Route exact path="/" element={<About/>}/>
+      <Route exact path="/about" element={<About/>}/>
       <Route  path="/experience" element={<Experience/>}/>
       <Route  path="/education" element={<Education/>}/> 
       <Route  path="/skills" element={<Skill/>}/> 

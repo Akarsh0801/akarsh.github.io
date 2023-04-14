@@ -1,8 +1,8 @@
 {
-  "name": "my-app",
-  "homepage": "https://akarsh0801.github.io/akarsh.github.io",
+  "name": "akarsh.github.io",
   "version": "0.1.0",
   "private": false,
+  "homepage": "https://akarsh0801.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
